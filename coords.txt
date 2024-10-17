@@ -1,7 +1,0 @@
-=== The Island ===
-(78,88) main-base-with-tp-trans
-(26,88) aggit-with-tp-trans
-(16,15) store-with-tp
-
-=== The Fjordur ===
-(37,64) main-base-with-trans 
