@@ -1,0 +1,5 @@
+*stage 1
+ - linux cmd
+ - git/github
+
+*stage 2
