@@ -2,3 +2,4 @@ carbonara
 Vichyssoise
 veggie-ramen
 mabptofu
+curry
